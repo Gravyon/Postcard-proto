@@ -2,11 +2,6 @@ body {
 	background: black;
 }
 
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 p {
 	color: blue;
 	font-family: Arial, Helvetica, sans-serif;
@@ -58,4 +53,5 @@ input {
 button {
 	background-color: rgb(61, 58, 58);
 	padding: 2px;
+	color: white;
 }
